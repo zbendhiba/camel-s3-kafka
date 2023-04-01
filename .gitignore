@@ -21,3 +21,36 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IDEA
+.idea
+*.ipr
+*.iml
+*.iws
+
+# IDEA lsp plugin
+lsp/
+
+# NetBeans
+nb-configuration.xml
+
+# KDE
+.directory
+
+# OSX
+.DS_Store
+
+# VS CODE
+.vscode
+*.code-workspace
+.factorypath
+
+# Vi/Vim
+*.swp
+
